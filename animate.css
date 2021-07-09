@@ -319,11 +319,11 @@ nav ul li{
         color: transparent;
     }
    
-    nav.active{
+    .fa-bars.active{
         display: block;
         width: 100%;
     }
-    nav.active ul{
+    .navbar.active ul{
         display: block;
     }
     .log{
@@ -540,6 +540,7 @@ nav ul li{
         color: #fff;
   
     }
+    
 
     
 }
